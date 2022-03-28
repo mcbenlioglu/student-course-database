@@ -1,0 +1,5 @@
+C:\Users\Melih Can Benlioğlu\source\repos\PGRep\PGRep\obj\Debug\net5.0\PGRep.csproj.AssemblyReference.cache
+C:\Users\Melih Can Benlioğlu\source\repos\PGRep\PGRep\obj\Debug\net5.0\PGRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih Can Benlioğlu\source\repos\PGRep\PGRep\obj\Debug\net5.0\PGRep.AssemblyInfoInputs.cache
+C:\Users\Melih Can Benlioğlu\source\repos\PGRep\PGRep\obj\Debug\net5.0\PGRep.AssemblyInfo.cs
+C:\Users\Melih Can Benlioğlu\source\repos\PGRep\PGRep\obj\Debug\net5.0\PGRep.csproj.CoreCompileInputs.cache
